@@ -1,0 +1,19 @@
+series: Basic OpenGL with GLFW
+title: Improved Particle System
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Use geometry shaders to lower the load of processing particles on the cpu.
+language: C++
+tags:
+  - Graphics
+  - Optmization
+extra_resources:
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Basic Particle
+  - series: Basic OpenGL with GLFW
+    title: Geometry Shaders
+  - series: Basic OpenGL with GLFW
+    title: Materials
