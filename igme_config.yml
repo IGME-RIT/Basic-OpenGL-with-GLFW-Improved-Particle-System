@@ -8,7 +8,7 @@ description: Use geometry shaders to lower the load of processing particles on t
 language: C++
 tags:
   - Graphics
-  - Optmization
+  - Optimization
 extra_resources:
 connections:
   - series: Basic OpenGL with GLFW
