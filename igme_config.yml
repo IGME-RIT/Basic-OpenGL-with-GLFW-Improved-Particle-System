@@ -12,7 +12,7 @@ tags:
 extra_resources:
 connections:
   - series: Basic OpenGL with GLFW
-    title: Basic Particle
+    title: Basic Particle System
   - series: Basic OpenGL with GLFW
     title: Geometry Shaders
   - series: Basic OpenGL with GLFW
